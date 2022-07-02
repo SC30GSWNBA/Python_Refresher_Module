@@ -1,5 +1,5 @@
 # Python_Refresher_Module
-Creating a Repository as a refresher for anyone willing to learn basics of Python
+Creating a repository for anyone willing to learn basics of Python
 
 Hello All,
 
